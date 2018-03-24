@@ -7,4 +7,4 @@ Casino Royal Game is a Number Guessing Game.Player deposits an initial amount to
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md]( CasinoGame/LICENSE) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/soheshdoshi/CasinoGame/blob/master/LICENSE) file for details
